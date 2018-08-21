@@ -12,7 +12,7 @@ sudo: required
 install:
   - pip install flask
 
-# Defini o script de Teste que deve rodar toda vez que o código for alterado.
+# Define o script de Teste que deve rodar toda vez que o código for alterado.
 script:
   - python test.py
 
